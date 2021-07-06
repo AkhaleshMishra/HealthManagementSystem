@@ -1,7 +1,7 @@
 # HealthManagementSystem
 
 				
-Customer = { 0 : 'New User' ,  1 : 'Ankit' ,  2 : 'Nilesh' ,  3: 'Shivam' }	
+Customer = { 0 : 'New User' ,  1 : 'Ankit' ,  2 : 'Nilesh' ,  3: 'Shivam'}
 Action = { 1 : 'Exercise' , 2 : 'Diet' }
 
 def getdate():
